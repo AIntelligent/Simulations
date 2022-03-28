@@ -7,7 +7,7 @@
    (household waste, medical waste, rotten fruit, rotten vegetables, plastic waste, paper 
    waste, chemical  waste and other types) they throw it in the  nearest garbage containers 
    at uncertain times. To garbage containers a load sensor that can detect its fullness is 
-   installed. This load   periodically it is measured and  when it exceeds a certain amount, 
+   installed. This load periodically it is measured and  when it exceeds a certain amount, 
    the garbage collector is informed of its fullness with a signal (visual or auditory). 
    The garbage collector empties the closest full container to it. This is virtual game like 
    this continues.
