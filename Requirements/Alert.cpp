@@ -2,7 +2,7 @@
 // Alert.cpp
 //
 // Author:
-//       Hakan E. Kartal <hek@nula.com.tr>
+//       Hakan E. Kartal
 //
 // Copyright (c) 2021 Hakan E. Kartal
 //
