@@ -1,8 +1,9 @@
-Project: Intelligent-Trashcan Simulator
+# Project: Intelligent-Trashcan Simulator
+
 Engineering: Hakan E. Kartal <hek@nula.com.tr>
 Creation Date: 15-06-2018
 
-EN: This project; is a virtual game about the conflict between garbage generators 
+# EN: This project; is a virtual game about the conflict between garbage generators 
 and garbage collectors. Garbage producers collect various weights and types of garbage 
 (household waste, medical waste, rotten fruit, rotten vegetables, plastic waste, paper 
 waste, chemical  waste and other types) they throw it in the  nearest garbage containers 
@@ -14,7 +15,7 @@ this continues.
 
 Keywords: Multi task, synch lock, oop modeling, virtual game.
 
-TR: Bu proje; çöp üreticiler ve çöp toplayıcılar arasındaki çekişmeyi konu alan 
+# TR: Bu proje; çöp üreticiler ve çöp toplayıcılar arasındaki çekişmeyi konu alan 
 sanal bir oyundur. Çöp üreticiler, ürettikleri çeşitli ağırlıkta ve türlerde çöpleri 
 (evsel atık, tıbbi atık, bozuk meyve, bozuk sebze, plastik atık, kağıt atık, kimyasal  
 atık ve diğer türlerde) kendilerine en yakın çöp konteynerlerine belirsiz zamanlarda
