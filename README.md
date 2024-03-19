@@ -1,4 +1,4 @@
-# Project: Intelligent-Trashcan Simulator
+# Intelligent-Trashcan Simulator
 
 Engineering: Hakan E. Kartal <hek@nula.com.tr>
 Creation Date: 15-06-2018
