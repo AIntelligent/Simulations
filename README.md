@@ -1,6 +1,6 @@
 # Intelligent-Trashcan Simulator
 
-Engineering: Hakan E. Kartal <hek@nula.com.tr>
+Engineering: Hakan Emre Kartal <hek@nula.com.tr>
 Creation Date: 15-06-2018
 
 # EN: This project; is a virtual game about the conflict between garbage generators and garbage collectors.
