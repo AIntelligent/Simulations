@@ -2,9 +2,9 @@
 // Garbage.h
 //
 // Author:
-//       Hakan E. Kartal <hek@nula.com.tr>
+//       Hakan Emre Kartal <hek@nula.com.tr>
 //
-// Copyright (c) 2021 Hakan E. Kartal
+// Copyright (c) 2021 Hakan Emre Kartal
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
@@ -35,21 +35,21 @@
     \
      \_ Garbage
          |\
-         | \_ DomesticWaste : Ev atığı
+         | \_ DomesticWaste : Ev atÃ½Ã°Ã½
          |\
-         | \_ MedicalWaste : Tıbbi atık
+         | \_ MedicalWaste : TÃ½bbi atÃ½k
          |\
-         | \_ RottenFruit : Çürümüş meyve
+         | \_ RottenFruit : Ã‡Ã¼rÃ¼mÃ¼Ã¾ meyve
          |\
-         | \_ RottenVegetable : Çürümüş sebze
+         | \_ RottenVegetable : Ã‡Ã¼rÃ¼mÃ¼Ã¾ sebze
          |\
-         | \_ PlasticWaste : Plastik atık
+         | \_ PlasticWaste : Plastik atÃ½k
          |\
-         | \_ PaperWaste : Kağıt atığı
+         | \_ PaperWaste : KaÃ°Ã½t atÃ½Ã°Ã½
          |\
-         | \_ ChemicalWaste : Kimyevi atık
+         | \_ ChemicalWaste : Kimyevi atÃ½k
           \
-           \_ OtherWaste : Diğer tür atıklar.
+           \_ OtherWaste : DiÃ°er tÃ¼r atÃ½klar.
 
 */
 
