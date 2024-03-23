@@ -1,5 +1,5 @@
 // Project: Intelligent-Trashcan Simulator
-// Engineering: Hakan E. Kartal <hek@nula.com.tr>
+// Engineering: Hakan Emre Kartal <hek@nula.com.tr>
 // Creation Date: 15-06-2018
 //
 /*
@@ -16,16 +16,16 @@
 
    Keywords: Multi task, synch lock, oop modeling, virtual game.
    
-   TR: Bu proje; çöp üreticiler ve çöp toplayıcılar arasındaki çekişmeyi konu alan 
-   sanal bir oyundur. Çöp üreticiler, ürettikleri çeşitli ağırlıkta ve türlerde çöpleri 
-   (evsel atık, tıbbi atık, bozuk meyve, bozuk sebze, plastik atık, kağıt atık, kimyasal  
-   atık ve diğer türlerde) kendilerine en yakın çöp konteynerlerine belirsiz zamanlarda
-   atarlar. Çöp konteynerlerine doluluğunu tespit edebilen yüksensörü takılmıştır. Belirli
-   periyotlarla bu yük ölçülür ve  belirli  bir  miktarı  aştığında  çöp  toplayıcısına  
-   bir sinyal (görsel ya da işitsel) ile doluluğu bildirilir. Çöp toplayıcısı kendisine en 
-   yakın konumdaki dolu konteyneri boşaltır. Bu sanal oyun bu şekilde devam eder.
+   TR: Bu proje; Ã§Ã¶p Ã¼reticiler ve Ã§Ã¶p toplayÃ½cÃ½lar arasÃ½ndaki Ã§ekiÃ¾meyi konu alan 
+   sanal bir oyundur. Ã‡Ã¶p Ã¼reticiler, Ã¼rettikleri Ã§eÃ¾itli aÃ°Ã½rlÃ½kta ve tÃ¼rlerde Ã§Ã¶pleri 
+   (evsel atÃ½k, tÃ½bbi atÃ½k, bozuk meyve, bozuk sebze, plastik atÃ½k, kaÃ°Ã½t atÃ½k, kimyasal  
+   atÃ½k ve diÃ°er tÃ¼rlerde) kendilerine en yakÃ½n Ã§Ã¶p konteynerlerine belirsiz zamanlarda
+   atarlar. Ã‡Ã¶p konteynerlerine doluluÃ°unu tespit edebilen yÃ¼ksensÃ¶rÃ¼ takÃ½lmÃ½Ã¾tÃ½r. Belirli
+   periyotlarla bu yÃ¼k Ã¶lÃ§Ã¼lÃ¼r ve  belirli  bir  miktarÃ½  aÃ¾tÃ½Ã°Ã½nda  Ã§Ã¶p  toplayÃ½cÃ½sÃ½na  
+   bir sinyal (gÃ¶rsel ya da iÃ¾itsel) ile doluluÃ°u bildirilir. Ã‡Ã¶p toplayÃ½cÃ½sÃ½ kendisine en 
+   yakÃ½n konumdaki dolu konteyneri boÃ¾altÃ½r. Bu sanal oyun bu Ã¾ekilde devam eder.
 
-   Anahtar kelimeler: Çoklu görev, senkronizasyon kilidi, nesne esaslı modelleme, 
+   Anahtar kelimeler: Ã‡oklu gÃ¶rev, senkronizasyon kilidi, nesne esaslÃ½ modelleme, 
                       sanal oyun.
 
 */
