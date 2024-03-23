@@ -2,9 +2,9 @@
 // Trashcan.cpp
 //
 // Author:
-//       Hakan E. Kartal <hek@nula.com.tr>
+//       Hakan Emre Kartal <hek@nula.com.tr>
 //
-// Copyright (c) 2021 Hakan E. Kartal
+// Copyright (c) 2021 Hakan Emre Kartal
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
